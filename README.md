@@ -22,9 +22,12 @@ _Explorer:))_
 Amazing React JS Developer
 =======
 
-### Stephen 
+### Stephen
 - Super cool human
 
 ### Clifford
 - Super pschyed developer
 
+
+### Young Coder
+- Nothing fancy here
