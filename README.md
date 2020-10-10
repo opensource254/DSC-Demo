@@ -10,5 +10,18 @@
 #### John Doe
 _A super awesome human_
 
+
 #### Winnie Nyambura
 _Explorer:))_
+=======
+
+#### Luke Kibiku
+Amazing React JS Developer
+=======
+
+### Stephen 
+- Super cool human
+
+### Clifford
+- Super pschyed developer
+
