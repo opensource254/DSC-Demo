@@ -8,6 +8,7 @@
 ### Awesome humans
 
 #### John Doe
+#### Ronny Awesome
 _A super awesome human_
 
 
