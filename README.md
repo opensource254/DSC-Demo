@@ -9,3 +9,6 @@
 
 #### John Doe
 _A super awesome human_
+
+#### Luke Kibiku
+Amazing React JS Developer
