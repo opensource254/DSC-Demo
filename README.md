@@ -10,5 +10,14 @@
 #### John Doe
 _A super awesome human_
 
+
 #### Luke Kibiku
 Amazing React JS Developer
+=======
+
+### Stephen 
+- Super cool human
+
+### Clifford
+- Super pschyed developer
+
