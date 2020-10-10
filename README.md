@@ -9,3 +9,6 @@
 
 #### John Doe
 _A super awesome human_
+
+#### Winnie Nyambura
+_Explorer:))_
